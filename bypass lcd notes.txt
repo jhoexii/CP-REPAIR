@@ -1,0 +1,101 @@
+Vivo v7 plus bypass FRP
+software ks tool
+method:
+need ito testpoint  after testpoint kabit ulit ung baterry
+open mo ung KSTOOL v2
+click m ung qualcom hanapin ung viv0-v7/v7plus
+sa ilalim click service>EDL Userlock Method 1
+magrerebot yan pag ngreboot mafoformat ung phone after format
+tespoint ulit tapos punta ka ulit sa KSTOOL v2
+click m ung qualcom hanapin ung viv0-v7/v7plus
+sa ilalim click service>EDL FRP Method 2
+after nyan magreboot okay n ung phone nakabypass na yan
+
+Samsung A53 5G latest patch
+software Samfrp v3.2
+install samsung usb driver muna para mdetect ung cp
+connect mo ung phone via usb wait m mread ng app ung port
+tapos click Remove FRP new security Aug security later
+tapos sundan m lng ung instructon na mkikita sa app
+
+Vivo Y02s Bypass FRP
+https://www.youtube.com/watch?v=7vjJqDosQHo
+
+vivo y11 format and bypass via testpoint
+https://www.youtube.com/watch?v=tM8mb7MdE5c
+gumamit n lng ng ibang mtkqcom n driver may virus yung nsa file
+
+SAMSUNG GALAXY A11 (A115U)
+software : SAMSUNG FRP EDL TOOL
+need ito testpoint kabit mo na baterry tapos saka mo itestpoint
+click scan port tapos select mo ung tamang port ng cp mo
+click select mbn file tapos select m ung mbn na sakto sa a11 version ng cp mo
+
+
+REALME C11
+software : None/Manual
+Connect nio muna sa wifi ung phone tapos punta kayo sa add wifi network 
+tapos sa keyboard press nio ung audio icon tapos may magpopup dyan click nio lng deny
+tapos click ulit audio icon tapos deny ulit,may lalabas sa ilalaim yan na ALLOW
+click nio yun magoopen yan ng gboard settings tapos click nio permision tapos sa search box sa itaas
+search nio applist open nio ung app list ,hanapin nio ung settings tapos click nio open
+tapos hanapin nio ung backup and reset tapos ereset all data nio tapos nkabypass na yan
+
+
+REALME C11 2021
+software : TFT UNLOCK TOOL
+https://www.youtube.com/watch?v=4RFrzvfw_0s
+click oppo>search realme c11 2021>tas function>ADB(erase FRp)
+
+
+REALME C30
+software : ResearchDownload - R22.19.1301
+extract muna ung file tapos install nio muna ung SPD drivers
+after install driver open nio na ang ResearchDownload 
+click nio port button tapos ipath nio sa file na RMX3581 Realme C30 A.49 FRP.pac the click open ung file
+after nio maimport ung RMX3581 Realme C30 A.49 FRP.pac click nio nmn yung start button then wait nio gang matapos ung process.
+
+OPPO A15S
+software: SP_Flash_Tool-5.1916_Win and MCT Mediatek Bypass
+https://www.youtube.com/watch?v=pKyM3r9nX6M
+file link: https://drive.google.com/file/d/1ppF6nDh2T0Y17VWqB0jqBZifE5-5ZIx8/view?usp=sharing
+
+OPPO A15
+software: SP_Flash_Tool-5.1916_Win and MCT Mediatek Bypass
+https://www.youtube.com/watch?v=jgeOjpF3RUk
+file link: https://drive.google.com/file/d/1EUxQVo8-RJ1sW8KMszIGWNM3kLj8U6XM/view?usp=sharing 
+
+Infinix Smart 8 X6525
+software : SAMFW TOOL 4.7.1
+https://www.youtube.com/watch?v=0JABsLJzAEg&t=222s
+
+Infinix HOT 10 play
+software : Palm Store - gamit ng sim na may pin tas ung vcard share via phoenix tas open ung link ng palmstore para maupdate yung palmstore
+https://www.youtube.com/watch?v=TqeELYPCM-k&t=32s
+
+Huawei Y7 Pro (2018)
+software : None/Manual
+dial 112 tapos mabilis nio click yung number 6(note mas mganda kakarestart p lng ng phone para mag bug ung system at magopen yung dialer or contacts)
+create kayo new contact,pagkatapos mcreate click nio yung gmail n ncreate nio tapos pag lumabas yung popup longpress nio yung gmail icon
+papasok ngayun sya sa App Info click nio Notification>Manage Accounts> tapos may popup ulit na complete action using ,click nio Accounts papasok sya sa setting tas doon nio na sya ereset ng format factory
+after reset punta sa display setting tapos iset niop sa drawer mode
+tapos pag nagapply na yung drawer mode punta kayo sa settings ulit tapos sa about phone click nio yung build number para mag activate ung developer options
+sa developer option enable nio yung oem unlocking tapos balik kayo sa reset phone tas reset nio na ulit
+https://www.youtube.com/watch?v=CwZBxHCQ-ns
+
+Infinix HOT 40i
+software : disable lang ung android setup tapos yung google play services tas enable pag lumabas ung just a sec
+https://www.youtube.com/watch?v=B6yUHXowqRM
+
+Infinix Note 30 5G
+https://www.youtube.com/watch?v=p02nmdUG4Mw
+
+HUAWEI Y7 2019 DUB LX2/LX1/LX3
+software :Halabtech Tool
+https://www.youtube.com/watch?v=WwEVxCrPBuc
+-itestpoint muna yung phone ,kelngan nka remove baterry bago testpoint tapos balik yung baterry after testpoint tas open mo yung halabtech tool then select mo yung Qualcom tab,click refresh sa tapast ng com port
+sa model select huawei tapos Y7 Prime 2019 then click Remove FRP pag nag Erasing FRP...OK sa logs means okay na yung phone mo reonnect baterry then turn on mo na yung cp
+Can bypass via mtk all
+realme 6i
+oppo a5s combo with chimera or *#813#
+ 
